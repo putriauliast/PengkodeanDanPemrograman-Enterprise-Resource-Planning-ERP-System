@@ -11,7 +11,13 @@ Sales ERP is a Modern and responsive small business management system. Developed
 7. Purchase
 8. Customer Update
 
+
 ## DATABASE APLIKASI
+![alt text](https://github.com/putriauliast/Sistem-Informasi-Akuntansi---Enterprise-Resource-Planning-ERP-System/blob/main/Screenshot%202023-12-14%20095709.png?raw=true)
+
+
+## RELASI DATABASE APLIKASI
+![alt text](https://github.com/putriauliast/Sistem-Informasi-Akuntansi---Enterprise-Resource-Planning-ERP-System/blob/main/Screenshot%202023-12-14%20102031.png?raw=true)
 
 
 ## TAMPILAN APLIKASI
@@ -25,6 +31,11 @@ Sales ERP is a Modern and responsive small business management system. Developed
 ![admin](https://user-images.githubusercontent.com/25568503/65634018-28763200-dfff-11e9-967b-b6ec401147df.png)
 
 ![login](https://user-images.githubusercontent.com/25568503/65634125-5fe4de80-dfff-11e9-9639-18255ce948b1.png)
+
+
+## FLOWCHART SISTEM
+Flowchart Login
+
 
 
 ## Installation and Usage Guide
