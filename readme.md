@@ -1,5 +1,5 @@
 ## PENJELASAN APLIKASI
-Sales ERP is a Modern and responsive small business management system. Developed by PHP and Laravel, JQery, Ajax, Bootstrap. It is Designed and Develop for thinking shop, small business, company and any types of business. Here has accounting,management, invoice user and Data analysis.
+Sales ERP adalah sistem manajemen bisnis kecil yang modern dan responsif. Dikembangkan oleh PHP dan Laravel, JQery, Ajax, Bootstrap. Ini Dirancang dan Dikembangkan untuk berpikir toko, bisnis kecil, perusahaan dan semua jenis bisnis. Di sini memiliki akuntansi, manajemen, pengguna faktur dan analisis data.
 
 ## FITUR APLIKASI
 1. Invoice Management
@@ -51,7 +51,7 @@ Composer, PHP version >5 and <8.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/naufalrandika/ERPLaravel.git
+   git clone https://github.com/putriauliast/Sistem-Informasi-Akuntansi---Enterprise-Resource-Planning-ERP-System.git
 
 2. **Navigate to the Project Directory:**
    ```bash
