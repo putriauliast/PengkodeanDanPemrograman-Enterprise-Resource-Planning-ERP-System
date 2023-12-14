@@ -1,9 +1,20 @@
 ## PENJELASAN APLIKASI
 Sales ERP is a Modern and responsive small business management system. Developed by PHP and Laravel, JQery, Ajax, Bootstrap. It is Designed and Develop for thinking shop, small business, company and any types of business. Here has accounting,management, invoice user and Data analysis.
 
+## FITUR APLIKASI
+1. Invoice Management
+2. Category
+3. Product Management
+4. Tax Management
+5. Unit
+6. Supplier
+7. Purchase
+8. Customer Update
+
+## DATABASE APLIKASI
 
 
-
+## TAMPILAN APLIKASI
 
 ![saleserp](https://user-images.githubusercontent.com/25568503/65633659-6b83d580-dffe-11e9-90f4-a1083e094165.png)
 
