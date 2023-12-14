@@ -35,10 +35,15 @@ Sales ERP is a Modern and responsive small business management system. Developed
 
 ## FLOWCHART SISTEM
 Flowchart Login
+![alt text](https://github.com/putriauliast/Sistem-Informasi-Akuntansi---Enterprise-Resource-Planning-ERP-System/blob/main/flowchart%20login%201.drawio.png?raw=true)
 
+Flowchart Menu Utama
+![alt text](https://github.com/putriauliast/Sistem-Informasi-Akuntansi---Enterprise-Resource-Planning-ERP-System/blob/main/flowchart%20halaman%20utama.drawio.png?raw=true)
 
+Flowchart Logout
+![alt text](https://github.com/putriauliast/Sistem-Informasi-Akuntansi---Enterprise-Resource-Planning-ERP-System/blob/main/flowchart%20logout.drawio.png?raw=true)
 
-## Installation and Usage Guide
+## INSTALASI DAN PENJELASAN STEP
 
 Follow these steps to set up the Sales ERP Laravel project on your local machine:
 **Requirements:**
