@@ -1,3 +1,12 @@
+## JUDUL
+Sistem ERP (Enterprise Resource Planning) - Putri Aulia NIM 12030122130121 - Kelas E - Mata Kuliah Pengkodean dan Pemrograman
+
+## REFERENSI GITHUB
+Saya memmbuat sistem ini dengan mengcloning dan memodifikasi dari link github berikut:
+https://github.com/naufalrandika/ERPLaravel.git
+
+## PERBANDINGAN
+
 ## PENJELASAN APLIKASI
 Sales ERP adalah sistem manajemen bisnis kecil yang modern dan responsif. Dikembangkan oleh PHP dan Laravel, JQery, Ajax, Bootstrap. Ini Dirancang dan Dikembangkan untuk berpikir toko, bisnis kecil, perusahaan dan semua jenis bisnis. Di sini memiliki akuntansi, manajemen, pengguna faktur dan analisis data.
 
